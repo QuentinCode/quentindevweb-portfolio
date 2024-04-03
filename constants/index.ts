@@ -82,17 +82,15 @@ export const Skill_data = [
   
   export const Socials = [
     {
-      name: "Discord",
-      src: "/instagram.svg",
-    },
-    {
-      name: "Facebook",
-      src: "/facebook.svg",
-    },
-    {
       name: "Instagram",
-      src: "/discord.svg",
+      src: "/instagram.svg",
+      link: "https://www.instagram.com/quentindevweb/?hl=fr"
     },
+    {
+      name: "Linkedin",
+      src: "/Linkedin.svg",
+      link: "https://www.linkedin.com/in/quentin-gibouin-62a478240/"
+    }
   ];
   
   
