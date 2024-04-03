@@ -46,7 +46,7 @@ const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          Je suis un développeur web avec de l'expérience dans le design et le développement de sites Web. Consultes mes projets et mes compétences.
+          Je suis un développeur web avec de l&apos;expérience dans le design et le développement de sites Web. Consultes mes projets et mes compétences.
         </motion.p>
         <motion.a
           variants={slideInFromLeft(1)}
